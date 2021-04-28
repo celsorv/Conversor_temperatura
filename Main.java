@@ -1,10 +1,10 @@
 
-/* ---------------------------------------------------------------
+/* ----------------------------------------------------------------
    UNIVESP - Universidade Virtual do Estado de São Paulo
              Disciplina Programação Orientada a Objetos
 
-  Conversão de temperatura de Celsius para Fahrenheit e vice-versa
-   --------------------------------------------------------------- */
+   Conversão de temperatura de Celsius para Fahrenheit e vice-versa
+   ---------------------------------------------------------------- */
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
